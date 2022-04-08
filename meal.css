@@ -1,0 +1,41 @@
+img{
+    border-radius: 10px;
+}
+.itemname{
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.itemid{
+    font-weight: 800;
+}
+.col-md-3{
+    margin: 50px !important;
+    border-radius: 10px !important;
+}
+#navbar{
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+    color: white;
+}
+#title{
+font-size: xx-large;
+}
+
+#nav-elements li{
+display: inline-block;
+margin-left: 50px !important;
+font-size: x-large;
+
+
+}
+#nav-elements{
+    position: relative;
+    left: 25vw;
+    bottom: 3px;
+
+}
+
+#title, #nav-elements{
+    display: inline-block;
+    list-style: none;
+}
